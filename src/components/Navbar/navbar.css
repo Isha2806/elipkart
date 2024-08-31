@@ -1,0 +1,15 @@
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: var(--primary-blue);
+    color: var(--white-color);
+    height: 100%;
+    width: 100%;
+    padding: 0.5rem;
+}
+.search{
+    padding: 0px
+}
+.icon{
+    height: 2rem;
+}
